@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+trip_plan_output.txt
+test_api.py
+trip_env/
